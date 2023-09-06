@@ -1,4 +1,4 @@
-Hi there! My name is Aaron!
+
 <h1>Hi, I'm Aaron, an <a href="https://www.linkedin.com › aaron-swinger-304347216">IT Professional</a>😎</h1>
 
 <h2>👨🏽‍💻 Information Technology Projects:</h2>
